@@ -40,7 +40,7 @@ experience:
   - title: Student Contributor
     company: Google Summer of Code
     company_url: 'https://summerofcode.withgoogle.com/'
-    company_logo: org-x
+    company_logo: ''
     location: Remote
     date_start: '2022-06-08'
     date_end: '2022-08-17'
@@ -49,7 +49,7 @@ experience:
   - title: Research Intern
     company: DataHammer Lab
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Beijing,China
     date_start: '2020-09'
     date_end: '2021-06'
@@ -58,7 +58,7 @@ experience:
   - title: Undergraduate Student
     company: Beijing Institute of Technology
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Beijing,China
     date_start: '2018-08'
     date_end: '2022-06'
