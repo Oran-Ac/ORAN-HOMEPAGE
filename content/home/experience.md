@@ -51,8 +51,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Beijing,China
-    date_start: '2020-09'
-    date_end: '2021-06'
+    date_start: '2020-09-03'
+    date_end: '2021-06-21'
     description: ''
 
   - title: Undergraduate Student
@@ -60,8 +60,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Beijing,China
-    date_start: '2018-08'
-    date_end: '2022-06'
+    date_start: '2018-08-21'
+    date_end: ''
     description: ''
 
 design:
