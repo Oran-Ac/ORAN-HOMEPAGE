@@ -1,39 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhipeng Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate in Beijing Institute of Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Beijing Institute of Technology
+  url: https://english.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a third-year undergraduate student in [Beijing Institute of Technology](https://english.bit.edu.cn/). My major is Computer Science (stream to Natural Language Processing in the third year). I have done research intern at Research Center for DataHammer Lab, Beijing Institute of Technology, supervised by Ph.D. candidate [Tian Lan](https://github.com/gmftbyGMFTBY) and Associate Professor [Xianling Mao](https://dblp.org/pid/46/9687.html).
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Computational Linguistics
+- Natural Language Processing
+- Dialogue System
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science
+    institution: Beijing Institute of Technology
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,13 +41,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/OranZzp
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Oran-Ac
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
