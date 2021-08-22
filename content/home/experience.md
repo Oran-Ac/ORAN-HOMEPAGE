@@ -58,7 +58,7 @@ experience:
   - title: Undergraduate Student
     company: Beijing Institute of Technology
     company_url: ''
-    company_logo: ''
+    company_logo: Beijing_Institute_of_Technology_logo
     location: Beijing,China
     date_start: '2018-08-21'
     date_end: ''
