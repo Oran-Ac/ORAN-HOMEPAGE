@@ -25,7 +25,7 @@ experience:
   - title: 'Research Intern'
     company: 'iFlytek'
     company_url: 'https://www.iflytek.com/en/about-us.html'
-    company_logo: org-gc
+    company_logo: iflytek
     location: 'Beijing,China'
     date_start: '2022-07-01'
     date_end: ''
@@ -58,7 +58,7 @@ experience:
   - title: Undergraduate Student
     company: Beijing Institute of Technology
     company_url: ''
-    company_logo: Beijing_Institute_of_Technology_logo
+    company_logo: bit
     location: Beijing,China
     date_start: '2018-08-21'
     date_end: ''

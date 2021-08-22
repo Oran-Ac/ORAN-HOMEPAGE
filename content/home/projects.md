@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Open Source
+    tag: Open Source
+  - name: Hackthon
+    tag: Hackthon
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
