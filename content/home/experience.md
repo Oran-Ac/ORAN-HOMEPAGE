@@ -40,7 +40,7 @@ experience:
   - title: Student Contributor
     company: Google Summer of Code
     company_url: 'https://summerofcode.withgoogle.com/'
-    company_logo: ''
+    company_logo: GSoC-icon
     location: Remote
     date_start: '2022-06-08'
     date_end: '2022-08-17'
